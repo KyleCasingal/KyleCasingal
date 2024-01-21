@@ -2,6 +2,16 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KyleCasingal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=Statistics" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=KyleCasingal&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KyleCasingal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=true&custom_title=Languages" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="250" src="https://i.imgur.com/YYM9cpL.gif"  />
 
 ###
@@ -33,5 +43,9 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/KyleCasingal/KyleCasingal/output/snake.svg" alt="Snake animation" />
 
 ###
